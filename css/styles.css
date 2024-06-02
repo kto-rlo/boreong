@@ -29,7 +29,7 @@ img{
 }
 
 #header{
-    background:#1E262D;
+    background:#2c4357;
     width:100%;
     position:relative;
     z-index: 1;
@@ -124,8 +124,7 @@ nav li li a{
     }
 
 nav li li a:hover{
-    background:#bdc3c7;
-    background:#FAFBFB;
+    background:#e0e0e0;
     }
 .mega-col{
     width:25%;
@@ -251,10 +250,12 @@ nav li li a:hover{
     background-position: center;
 }
 
+/* 진단키트 */
 .main_image1:hover{
-    background-image: url(../images/infusion\ solution\ hover.jpg);
+    background-image: url(../images/kit2.png);
 }
 
+/* 제대혈 */
 .main_image2{
     width: 295px;
     height: 590px;
@@ -270,8 +271,9 @@ nav li li a:hover{
     background-position: center;
 }
 
+/* 제대혈 */
 .main_image2-1:hover{
-    background-image: url(../images/infusion\ solution\ hover.jpg);
+    background-image: url(../images/cord\ blood2.png);
 }
 
 .main_image2-2{
@@ -283,9 +285,9 @@ nav li li a:hover{
     background-position: center;
 }
 
-
+/* 혈액제 */
 .main_image2-2:hover{
-    background-image: url(../images/infusion\ solution\ hover.jpg);
+    background-image: url(../images/blood2.png);
 }
 
 .main_image3{
@@ -296,8 +298,9 @@ nav li li a:hover{
     background-position: center;
 }
 
+/* 의약품 */
 .main_image3:hover{
-    background-image: url(../images/infusion\ solution\ hover.jpg);
+    background-image: url(../images/ect\ drug2.png);
 }
 
 .main_image4{
@@ -308,8 +311,9 @@ nav li li a:hover{
     background-position: center;
 }
 
+/* 유전체검사 */
 .main_image4:hover{
-    background-image: url(../images/infusion\ solution\ hover.jpg);
+    background-image: url(../images/genetic\ test2.png);
 }
 
 .main_image5{
@@ -320,8 +324,9 @@ nav li li a:hover{
     background-position: center;
 }
 
+/* 백신 */
 .main_image5:hover{
-    background-image: url(../images/infusion\ solution\ hover.jpg);
+    background-image: url(../images/vaccine2.png);
 }
 
 
@@ -422,6 +427,7 @@ nav li li a:hover{
 /* footer */
 #footer{
     width: 100%;
+    margin-top: 30px;
 
 }
 .footer_container{
